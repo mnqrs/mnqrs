@@ -33,7 +33,7 @@
   <div>      
 <h3 align="left">:computer: Let's connect!</h3>
   <p align="left">
-  <a  href = "https://www.instagram.com/mnqrs/"target="_blank"> <img height="40" src="https://github.com/mnqrs/mnqrs/assets/116473798/7527e25d-7337-49bb-a39d-d73302758cc0"></a>
-  <a  href = "https://www.linkedin.com/in/moniquerosa/"target="_blank"> <img height="40" src="https://github.com/mnqrs/mnqrs/assets/116473798/39b20f4b-ede4-448c-af47-d9ed397f8dfa" target="_blank"></a>
+  <a  href="https://www.instagram.com/mnqrs/" target="_blank"> <img height="40" src="https://github.com/mnqrs/mnqrs/assets/116473798/7527e25d-7337-49bb-a39d-d73302758cc0" target="_blank"></a>
+  <a  href="https://www.linkedin.com/in/moniquerosa/" target="_blank"> <img height="40" src="https://github.com/mnqrs/mnqrs/assets/116473798/39b20f4b-ede4-448c-af47-d9ed397f8dfa" target="_blank"></a>
   <a  href="mailto:mnqrs@yahoo.com.br" > <img height="40" src="https://github.com/mnqrs/mnqrs/assets/116473798/598ef44d-8c21-45aa-9179-56b051d7f50b" target="_blank">
 <div/>
