@@ -1,16 +1,39 @@
-### Hi there 👋
+### Hi there, this is Monique Rosa👋
 
-<!--
-**mnqrs/mnqrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnqrs&layout=compact&langs_count=7&theme=dracula"> <p></p>
+<img align ="center" src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" width="100">
+<br><br>
+
+
+<h3 align="left">🛠 Languages and tools</h3>
+
+###
+
+<div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html logo"/>
+     <img width="12" />  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
+  <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css logo"/>
+   <img width="12" />  
+  <img src="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png" height = "40" alt="sql logo"/>
+   <img width="12" />                         
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"/>
+  <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="dot-net logo"/>
+  <img width="12" />
+          
+</div>
+<h3 align="right">:computer: Let's connect!</h3>
+  <p align="right">
+  <a  href = " https://www.instagram.com/mnqrs/"><img height="40" src="https://github.com/mnqrs/mnqrs/assets/116473798/7527e25d-7337-49bb-a39d-d73302758cc0"></a>
+  <a  href = " https://www.linkedin.com/in/moniquerosa/"><img height="40" src="https://github.com/mnqrs/mnqrs/assets/116473798/39b20f4b-ede4-448c-af47-d9ed397f8dfa" target="_blank"></a>
+  <a  href="mailto:mnqrs@yahoo.com.br" target="_blank"><img height="40" src="https://github.com/mnqrs/mnqrs/assets/116473798/598ef44d-8c21-45aa-9179-56b051d7f50b" target="_blank">
