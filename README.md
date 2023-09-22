@@ -2,11 +2,10 @@
 
 
 
-<br><br>
+
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnqrs&layout=compact&langs_count=7&theme=dracula"> <p></p>
 <img align ="center" src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" width="100">
-<br><br>
 
 
 <h3 align="left">🛠 Languages and tools</h3>
