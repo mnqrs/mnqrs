@@ -5,7 +5,7 @@
 
 <h3>:star2:Welcome, Bem-vindo, Willkommen, Bienvenido!:star2:</h3>
 
-Full stack Jr. developer with experience in C#, HTML, JavaScript, React, SQL and CSS. 
+Full stack Jr. developer with experience in C#, HTML, JavaScript, React, Python, SQL and CSS. 
 
 I'm constantly looking to learn new things and improve myself.
 
@@ -25,6 +25,8 @@ I'm constantly looking to learn new things and improve myself.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"/>
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="40" alt="python logo"/>
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html logo"/>
 <img width="12" />  
