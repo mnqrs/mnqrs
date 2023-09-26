@@ -1,16 +1,27 @@
 
 ## Hi there, this is Monique Rosa👋
 
+<img align="right" width="40%" src="https://i.imgur.com/F2awCEF.png">
 
+<h3>:star2:Welcome, Bem-vindo, Willkommen, Bienvenido!:star2:</h3>
 
-<div align="right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnqrs&layout=compact&langs_count=7&theme=dracula"> <p></p>
+Full stack Jr. developer with experience in C#, HTML, JavaScript, React, SQL and CSS. 
+
+I'm constantly looking to learn new things and improve myself.
+
+<a href="https://open.spotify.com/playlist/6TV2GnlkHSR5qQ8HjTasKR?si=765cb49bbc134de2">:notes:Click here for cool music recomendation 
+
 <img align ="center" src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" width="100">
 
+<div align="left">
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnqrs&layout=compact&theme=moltack)](https://github.com/mnqrs/github-readme-stats)
 
-<h3 align="right">🛠 Languages and tools</h3>
 
-<div align="right">
+
+<h3 align="left">🛠 Languages and tools</h3>
+
+<div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"/>
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
@@ -36,8 +47,8 @@
        
 <h3 align="right">:computer: Let's connect!</h3>
 <div> 
-  <p align="right">
-  <a  href="https://www.instagram.com/mnqrs/" target="_blank"> <img height="40" src="https://github.com/mnqrs/mnqrs/assets/116473798/7527e25d-7337-49bb-a39d-d73302758cc0" target="_blank"></a>
-  <a  href="https://www.linkedin.com/in/moniquerosa/" target="_blank"> <img height="40" src="https://github.com/mnqrs/mnqrs/assets/116473798/39b20f4b-ede4-448c-af47-d9ed397f8dfa" target="_blank"></a>
-  <a  href="mailto:mnqrs@yahoo.com.br" > <img height="40" src="https://github.com/mnqrs/mnqrs/assets/116473798/598ef44d-8c21-45aa-9179-56b051d7f50b" target="_blank">
+<p align="right">
+<a href="https://www.linkedin.com/in/moniquerosa/"> <img height="40" src="https://img.icons8.com/doodle/48/linkedin--v2.png" target="_blank"></a>
+<a href="mailto:mnqrs@yahoo.com.br"> <img height="40" src="https://img.icons8.com/doodle/48/apple-mail.png" target="_blank"></a>
+<a href="https://www.instagram.com/mnqrs/"> <img height="40" src="https://img.icons8.com/doodle/48/instagram--v1.png" target="_blank">
 <div/>
