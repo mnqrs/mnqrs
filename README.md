@@ -11,26 +11,31 @@
 <h3 align="right">🛠 Languages and tools</h3>
 
 <div align="right">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html logo"/>
-     <img width="12" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css logo"/>
-   <img width="12" />  
-  <img src="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png" height = "40" alt="sql logo"/>
-   <img width="12" />                         
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"/>
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="dot-net logo"/>
-  <img width="12" />
-        </div><p></p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"/>
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html logo"/>
+<img width="12" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css logo"/>
+<img width="12" />  
+<img src="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png" height = "40" alt="sql logo"/>
+<img width="12" />                         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"/>
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="dot-net logo"/>
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"/>
+<img width="12" />
+</div><p></p>
 
-  <div>      
+
+ 
+       
 <h3 align="right">:computer: Let's connect!</h3>
+<div> 
   <p align="right">
   <a  href="https://www.instagram.com/mnqrs/" target="_blank"> <img height="40" src="https://github.com/mnqrs/mnqrs/assets/116473798/7527e25d-7337-49bb-a39d-d73302758cc0" target="_blank"></a>
   <a  href="https://www.linkedin.com/in/moniquerosa/" target="_blank"> <img height="40" src="https://github.com/mnqrs/mnqrs/assets/116473798/39b20f4b-ede4-448c-af47-d9ed397f8dfa" target="_blank"></a>
