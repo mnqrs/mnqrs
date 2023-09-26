@@ -9,7 +9,7 @@ Full stack Jr. developer with experience in C#, HTML, JavaScript, React, Python,
 
 I'm constantly looking to learn new things and improve myself.
 
-<a href="https://open.spotify.com/playlist/6TV2GnlkHSR5qQ8HjTasKR?si=765cb49bbc134de2">:notes:Click here for cool music recomendation 
+<a href="https://open.spotify.com/playlist/6TV2GnlkHSR5qQ8HjTasKR?si=765cb49bbc134de2">:notes:<b>Click here for cool songs recommendation </b>
 
 <img align ="center" src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" width="100">
 
