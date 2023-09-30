@@ -15,7 +15,7 @@ I'm constantly looking to learn new things and improve myself.
 
 <div align="left">
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnqrs&layout=compact&theme=moltack)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnqrs&include_python_lessons=python_lessons&layout=compact&theme=moltack)
 
 
 
