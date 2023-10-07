@@ -35,14 +35,14 @@ I'm constantly looking to learn new things and improve myself.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css logo"/>
 <img width="12" />  
 <img src="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png" height = "40" alt="sql logo"/>
-<img width="12" />                         
+<img width="12" />       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"/>
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="dot-net logo"/>
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"/>
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
 <img width="12" />
 </div><p></p>
 
