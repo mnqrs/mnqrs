@@ -52,7 +52,7 @@ I'm constantly looking to learn new things and improve myself.
 <h3 align="right">:computer: Let's connect!</h3>
 <div> 
 <p align="right">
-<a href="https://www.linkedin.com/in/moniquerosa/"> <img height="40" src="https://img.icons8.com/doodle/48/linkedin--v2.png" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rosamonique/"> <img height="40" src="https://img.icons8.com/doodle/48/linkedin--v2.png" target="_blank"></a>
 <a href="mailto:mnqrs@yahoo.com.br"> <img height="40" src="https://img.icons8.com/doodle/48/apple-mail.png" target="_blank"></a>
 <a href="https://www.instagram.com/mnqrs/"> <img height="40" src="https://img.icons8.com/doodle/48/instagram--v1.png" target="_blank">
 <div/>
